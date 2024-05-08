@@ -4,4 +4,4 @@ Demo : https://www.youtube.com/watch?v=eYEZZ5huOBo
 Cách dùng:
 
 pip install -r requirement.txt
-py "Metamask Generate.py"
+py "ronin.py"
